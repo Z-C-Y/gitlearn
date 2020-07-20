@@ -2,3 +2,6 @@ hello world 111
 hello git
 this is the 3rd line
 this is the 4th line
+
+2020. 7,20 
+今天学习了 vscode 插件安装
